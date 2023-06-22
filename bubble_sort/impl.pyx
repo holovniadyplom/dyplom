@@ -1,7 +1,4 @@
 cpdef list alg(list array):
-    """
-    https://realpython.com/sorting-algorithms-python/
-    """
 
     cdef int n = len(array)
     cdef int i, j

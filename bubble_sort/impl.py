@@ -1,8 +1,4 @@
 def alg(array: list[int]) -> list:
-    """
-    https://realpython.com/sorting-algorithms-python/
-    list insert
-    """
 
     n = len(array)
 
